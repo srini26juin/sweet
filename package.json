@@ -1,0 +1,28 @@
+{
+  "name": "denfitness",
+  "version": "1.0.0",
+  "description": "fitness cardio weightloss weightgain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srini26juin/sweet.git"
+  },
+  "keywords": [
+    "fitness"
+  ],
+  "author": "srinivasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srini26juin/sweet/issues"
+  },
+  "homepage": "https://github.com/srini26juin/sweet#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongojs": "^2.6.0"
+  }
+}
